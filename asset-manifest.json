@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/friends-rolodex/static/css/main.47ae5909.chunk.css",
+    "main.js": "/friends-rolodex/static/js/main.653e2b93.chunk.js",
+    "main.js.map": "/friends-rolodex/static/js/main.653e2b93.chunk.js.map",
+    "runtime-main.js": "/friends-rolodex/static/js/runtime-main.2afed907.js",
+    "runtime-main.js.map": "/friends-rolodex/static/js/runtime-main.2afed907.js.map",
+    "static/js/2.435b072a.chunk.js": "/friends-rolodex/static/js/2.435b072a.chunk.js",
+    "static/js/2.435b072a.chunk.js.map": "/friends-rolodex/static/js/2.435b072a.chunk.js.map",
+    "index.html": "/friends-rolodex/index.html",
+    "precache-manifest.a00287339954abe8a1011fbc2d8c35f3.js": "/friends-rolodex/precache-manifest.a00287339954abe8a1011fbc2d8c35f3.js",
+    "service-worker.js": "/friends-rolodex/service-worker.js",
+    "static/css/main.47ae5909.chunk.css.map": "/friends-rolodex/static/css/main.47ae5909.chunk.css.map",
+    "static/js/2.435b072a.chunk.js.LICENSE.txt": "/friends-rolodex/static/js/2.435b072a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2afed907.js",
+    "static/js/2.435b072a.chunk.js",
+    "static/css/main.47ae5909.chunk.css",
+    "static/js/main.653e2b93.chunk.js"
+  ]
+}
